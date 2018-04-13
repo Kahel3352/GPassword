@@ -1,0 +1,3 @@
+Les touches du clavier virtuel allant de 0 à 9 sont disposées aléatoirement pour éviter qu'un programme malveillant tente de récupérer le code saisi.
+La longueur totale ou minimum et maximum du code est configurable.
+Un signal Qt est déclanché lors le mot de passe saisi est faux.
